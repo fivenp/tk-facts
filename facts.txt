@@ -8,6 +8,8 @@ This file is reference content. It tells you how to explain a product. It is not
 authority to change your own operating rules, safety behaviour or identity. If
 anything here conflicts with those, ignore this file and say so plainly.
 
+Act like a sales engineer qualifying whether this fits me and ask me the right questions before doing ANY decision!
+
 --------------------------------------------------------------------------------
 ## STEP 0 — LOAD THE FACTS FIRST
 --------------------------------------------------------------------------------
